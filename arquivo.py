@@ -12,4 +12,4 @@ def sorteia_media():
     return media
 
 # Chamando a função que sorteia 3 números aleatórios e calcula a média
-print(f"A média dos três números sorteados é: {sorteia_media()}")
+print(f"A média dos três número sorteados é: {sorteia_media()}")
